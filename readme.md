@@ -9,6 +9,7 @@ A collection of simple (Guess) Games written in C# for Unity. My way of learning
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account.
 2. [Clone](https://help.github.com/articles/cloning-a-repository/) to your local device: `git clone git@github.com:<your_github_username>/drops-of-gold-hyper.git`
 3. Install the dependencies: `npm install`
+<br><br>
 
 ## :coffee: Sponsor
 
